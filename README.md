@@ -1,4 +1,8 @@
-# PSDATAGERRY
+<p align="center">
+  <a href="https://twitter.com/mojoaar"><img src="https://img.shields.io/twitter/follow/mojoaar?style=social"></a>
+</p>
+
+# PSDATAGERRY - PowerShell Module
 This PowerShell module provides a series of cmdlets for interacting with the [DATAGERRY Rest API](https://datagerry.com/). Invoke-RestMethod is used for all API calls.
 
 ## Requirements
