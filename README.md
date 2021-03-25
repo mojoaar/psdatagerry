@@ -1,4 +1,8 @@
 <p align="center">
+<a href="https://github.com/mojoaar/psdatagerry"><img src="https://img.shields.io/github/last-commit/mojoaar/psdatagerry"></a>
+<a href="https://github.com/mojoaar/psdatagerry"><img src="https://img.shields.io/github/contributors/mojoaar/psdatagerry"></a>
+</p>
+<p align="center">
 <a href="https://technet.cc"><img src="https://img.shields.io/badge/technet.cc-Blog-blue"></a>
 <a href="https://twitter.com/mojoaar"><img src="https://img.shields.io/twitter/follow/mojoaar?style=social"></a>
 </p>
