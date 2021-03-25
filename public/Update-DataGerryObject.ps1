@@ -6,7 +6,7 @@ function Update-DataGerryObject {
         Updates an object thru the DataGerry API. Remember to set url/auth with Set-DataGerryAuth prior to running this function.
     .NOTES
         Name: Update-DataGerryObject
-        Author: Morten Johansen (mojo)
+        Author: Morten Johansen
         Version: 1.0
         DateCreated: 2021-Mar-25
         DateUpdated: XXXX-XXX-XX

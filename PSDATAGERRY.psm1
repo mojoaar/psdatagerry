@@ -1,7 +1,5 @@
-# Implement your module commands in this script.
+#Get public and private function definition files.
+$Public = @( Get-ChildItem -Path $PSScriptRoot\Public\*.ps1 -ErrorAction SilentlyContinue -Recurse )
+$Private = @( Get-ChildItem -Path $PSScriptRoot\Private\*.ps1 -ErrorAction SilentlyContinue -Recurse )
 
-
-# Export only the functions using PowerShell standard verb-noun naming.
-# Be sure to list each exported functions in the FunctionsToExport field of the module manifest file.
-# This improves performance of command discovery in PowerShell.
-Export-ModuleMember -Function *-*
+Export-ModuleMember -Function '*' -Alias '*'

@@ -6,7 +6,7 @@ function Set-DataGerryAuth {
         Set's the Authorization and Rest URL to the DataGerry API
     .NOTES
         Name: Set-DataGerryAuth
-        Author: Morten Johansen (mojo)
+        Author: Morten Johansen
         Version: 1.0
         DateCreated: 2021-Mar-24
         DateUpdated: XXXX-XXX-XX
@@ -16,7 +16,7 @@ function Set-DataGerryAuth {
         Parameter for the PSCredential object to authenticate with the DataGerry API. Mandatory parameter.
     .EXAMPLE
         $cred = Get-Credential
-        Set-DataGerryAuth -Url 'http://emeadkhovapp142.jysk.com:4000/rest/' -Credential $cred
+        Set-DataGerryAuth -Url 'https://datagerry.host.com:4000/rest/' -Credential $cred
         Will set the url and authentication from the input in $cred.
     #>
     [CmdletBinding()]

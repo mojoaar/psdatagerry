@@ -10,7 +10,12 @@ Download or clone the latest files and place th3e module folder in your PowerShe
 Once you've done this, all the cmdlets will be at your disposal, you can see a full list using `Get-Command -Module PSDATAGERRY`. Remember to run Set-DataGerryAuth before beginning to work in your environment.
 
 ## Cmdlets
-* todo
+* Get-DataGerryObjects
+* Get-DataGerryTypes
+* Get-DataGerryUsers
+* New-DataGerryObject
+* Set-DataGerryAuth
+* Update-DataGerryObject
 
 ## Author
 Author: Morten Johansen (<mj@emsg.net>) // [Twitter](https://twitter.com/mojoaar)

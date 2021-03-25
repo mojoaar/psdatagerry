@@ -6,7 +6,7 @@ function Get-DataGerryObjects {
         Returns object(s) from the DataGerry API. Remember to set url/auth with Set-DataGerryAuth prior to running this function.
     .NOTES
         Name: Get-DataGerryObject
-        Author: Morten Johansen (mojo)
+        Author: Morten Johansen
         Version: 1.0
         DateCreated: 2021-Mar-24
         DateUpdated: XXXX-XXX-XX

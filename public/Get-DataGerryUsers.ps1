@@ -6,7 +6,7 @@ function Get-DataGerryUsers {
         Returns user(s) from the DataGerry API. Remember to set url/auth with Set-DataGerryAuth prior to running this function.
     .NOTES
         Name: Get-DataGerryUsers
-        Author: Morten Johansen (mojo)
+        Author: Morten Johansen
         Version: 1.0
         DateCreated: 2021-Mar-25
         DateUpdated: XXXX-XXX-XX

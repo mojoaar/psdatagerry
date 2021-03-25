@@ -15,25 +15,25 @@ RootModule = 'PSDATAGERRY.psm1'
 ModuleVersion = '0.0.1'
 
 # Supported PSEditions
-# CompatiblePSEditions = @()
+CompatiblePSEditions = @('Desktop', 'Core')
 
 # ID used to uniquely identify this module
 GUID = '42ddcbc0-3149-4f9e-96ae-217297c04bb0'
 
 # Author of this module
-Author = 'mojoaar'
+Author = 'Morten Johansen'
 
 # Company or vendor of this module
 CompanyName = 'Unknown'
 
 # Copyright statement for this module
-Copyright = '(c) mojoaar. All rights reserved.'
+Copyright = '(c) 2021 Morten Johansen. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'Module to interact with the DATAGERRY Rest API'
 
 # Minimum version of the PowerShell engine required by this module
-# PowerShellVersion = ''
+PowerShellVersion = '3.0'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
@@ -95,13 +95,13 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        # Tags = @()
+        Tags = @('powershell', 'module', 'datagerry', 'cmdb', 'rest api')
 
         # A URL to the license for this module.
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/mojoaar/psdatagerry'
 
         # A URL to an icon representing this module.
         # IconUri = ''
