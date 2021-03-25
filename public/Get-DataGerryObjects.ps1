@@ -7,7 +7,7 @@ function Get-DataGerryObjects {
     .NOTES
         Name: Get-DataGerryObject
         Author: Morten Johansen
-        Version: 1.0
+        Version: 0.0.1
         DateCreated: 2021-Mar-24
         DateUpdated: XXXX-XXX-XX
     .PARAMETER All

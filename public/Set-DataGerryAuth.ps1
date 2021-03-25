@@ -7,7 +7,7 @@ function Set-DataGerryAuth {
     .NOTES
         Name: Set-DataGerryAuth
         Author: Morten Johansen
-        Version: 1.0
+        Version: 0.0.1
         DateCreated: 2021-Mar-24
         DateUpdated: XXXX-XXX-XX
     .PARAMETER Url

@@ -7,7 +7,7 @@ function New-DataGerryObject {
     .NOTES
         Name: New-DataGerryObject
         Author: Morten Johansen
-        Version: 1.0
+        Version: 0.0.1
         DateCreated: 2021-Mar-25
         DateUpdated: XXXX-XXX-XX
     .PARAMETER InputObj
