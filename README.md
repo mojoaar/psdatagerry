@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://twitter.com/mojoaar"><img src="https://img.shields.io/twitter/follow/mojoaar?style=social"></a>
+<a href="https://technet.cc"><img src="https://img.shields.io/badge/technet.cc-Blog-blue"></a>
+<a href="https://twitter.com/mojoaar"><img src="https://img.shields.io/twitter/follow/mojoaar?style=social"></a>
 </p>
 
 # PSDATAGERRY - PowerShell Module
