@@ -22,5 +22,6 @@ Once you've done this, all the cmdlets will be at your disposal, you can see a f
 * Set-DataGerryAuth
 * Update-DataGerryObject
 
-## Author
-Author: Morten Johansen (<mj@emsg.net>) // [Twitter](https://twitter.com/mojoaar)
+## Changelog
+* 0.0.1 - 2021.03.25
+* * Initial release of module
