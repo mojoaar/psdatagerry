@@ -5,7 +5,7 @@ This PowerShell module provides a series of cmdlets for interacting with the [DA
 Requires PowerShell 3.0 or above (this is when `Invoke-RestMethod` was introduced).
 
 ## Usage
-Download or clone the latest files and place th3e module folder in your PowerShell profile directory (i.e. the `Modules` directory under wherever `$profile` points to in your PS console) and run:
+Download or clone the latest files and place the module folder in your PowerShell profile directory (i.e. the `Modules` directory under wherever `$profile` points to in your PS console) and run:
 `Import-Module PSDATAGERRY`
 Once you've done this, all the cmdlets will be at your disposal, you can see a full list using `Get-Command -Module PSDATAGERRY`. Remember to run Set-DataGerryAuth before beginning to work in your environment.
 
